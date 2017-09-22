@@ -1,0 +1,45 @@
+DateTime, 2016-11-10, Number of Columns:, 530, Number of Beams:, 1389
+DateTime, 2016-12-16, Number of Columns:, 554, Number of Beams:, 1625
+DateTime, 2016-08-01, Number of Columns:, 216, Number of Beams:, 1271
+DateTime, 2016-09-19, Number of Columns:, 510, Number of Beams:, 1347
+DateTime, 2016-09-01, Number of Columns:, 494, Number of Beams:, 1300
+DateTime, 2017-07-06, Number of Columns:, 610, Number of Beams:, 2118
+DateTime, 2017-08-23, Number of Columns:, 931, Number of Beams:, 2325
+DateTime, 2017-01-18, Number of Columns:, 553, Number of Beams:, 1659
+DateTime, 2017-02-23, Number of Columns:, 607, Number of Beams:, 1751
+DateTime, 2017-03-23, Number of Columns:, 627, Number of Beams:, 1913
+DateTime, 2017-04-19, Number of Columns:, 620, Number of Beams:, 2003
+DateTime, 2017-05-16, Number of Columns:, 617, Number of Beams:, 2005
+DateTime, 2017-09-20, Number of Columns:, 261, Number of Beams:, 819
+DateTime, 2017-09-20, Number of Columns:, 240, Number of Beams:, 703
+DateTime, 2017-09-20, Number of Columns:, 240, Number of Beams:, 703
+DateTime, 2017-09-20, Number of Columns:, 0, Number of Beams:, 0
+DateTime, 2017-09-20, Number of Columns:, 116, Number of Beams:, 506
+DateTime, 2017-09-20, Number of Columns:, 115, Number of Beams:, 504
+DateTime, 2017-09-20, Number of Columns:, 166, Number of Beams:, 684
+DateTime, 2017-09-20, Number of Columns:, 249, Number of Beams:, 701
+DateTime, 2017-09-20, Number of Columns:, 169, Number of Beams:, 695
+DateTime, 2017-09-20, Number of Columns:, 249, Number of Beams:, 701
+DateTime, 2017-09-20, Number of Columns:, 257, Number of Beams:, 784
+DateTime Modified:, 2017-09-20DateTime Created:, 2017-08-23, Number of Columns:, 261, Number of Beams:, 819
+DateTime Modified:, 2017-09-20DateTime Created:, 2017-06-12, Number of Columns:, 240, Number of Beams:, 703
+DateTime Modified:, 2017-09-20DateTime Created:, 2017-06-13, Number of Columns:, 240, Number of Beams:, 703
+DateTime Modified:, 2017-09-20DateTime Created:, 2016-06-15, Number of Columns:, 0, Number of Beams:, 0
+DateTime Modified:, 2017-09-20DateTime Created:, 2016-08-11, Number of Columns:, 116, Number of Beams:, 506
+DateTime Modified:, 2017-09-20DateTime Created:, 2016-08-12, Number of Columns:, 115, Number of Beams:, 504
+DateTime Modified:, 2017-09-20DateTime Created:, 2017-03-23, Number of Columns:, 166, Number of Beams:, 684
+DateTime Modified:, 2017-09-20DateTime Created:, 2017-04-07, Number of Columns:, 249, Number of Beams:, 701
+DateTime Modified:, 2017-09-20DateTime Created:, 2016-09-30, Number of Columns:, 169, Number of Beams:, 695
+DateTime Modified:, 2017-09-20DateTime Created:, 2017-04-07, Number of Columns:, 249, Number of Beams:, 701
+DateTime Modified:, 2017-09-20DateTime Created:, 2017-06-02, Number of Columns:, 257, Number of Beams:, 784
+DateTime Modified:, 2017-09-20, DateTime Created:, 2017-08-23, Number of Columns:, 261, Number of Beams:, 819 , FileLocation:, P:\W3292 National Cryptologic Museum\Calcs\04_CD\100% CD\02_Dunnage Framing\ExportBackup\W3292-S16_zbrown.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2017-06-12, Number of Columns:, 240, Number of Beams:, 703 , FileLocation:, P:\W3292 National Cryptologic Museum\Drawings\Archives\2017-05-11 server backup\W3292-S16-Central.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2017-06-13, Number of Columns:, 240, Number of Beams:, 703 , FileLocation:, P:\W3292 National Cryptologic Museum\Drawings\Archives\2017-05-11 server backup\W3292-S16-Central_detached.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2016-06-15, Number of Columns:, 0, Number of Beams:, 0 , FileLocation:, P:\W3292 National Cryptologic Museum\Drawings\Archives\W3292-S14-Central_2016-6-15_10.29.41\W3292-S14-Central.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2016-08-11, Number of Columns:, 116, Number of Beams:, 506 , FileLocation:, P:\W3292 National Cryptologic Museum\Drawings\Archives\W3292-S16-Central_2016-8-11_18.38.10\W3292-S16-Central.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2016-08-12, Number of Columns:, 115, Number of Beams:, 504 , FileLocation:, P:\W3292 National Cryptologic Museum\Drawings\Archives\W3292-S16-Central_2016-8-12_16.43.39\W3292-S16-Central.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2017-03-23, Number of Columns:, 166, Number of Beams:, 684 , FileLocation:, P:\W3292 National Cryptologic Museum\Drawings\Archives\W3292-S16-Central_2017-3-23_16.34.55\W3292-S16-Central.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2017-04-07, Number of Columns:, 249, Number of Beams:, 701 , FileLocation:, P:\W3292 National Cryptologic Museum\Drawings\Archives\W3292-S16-Central_2017-4-7_17.47.57\W3292-S16-Central.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2016-09-30, Number of Columns:, 169, Number of Beams:, 695 , FileLocation:, P:\W3292 National Cryptologic Museum\Submissions\2016-09-30 100% DD\W3292-S16-Central_2016-9-30_16.18.44\W3292-S16-Central.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2017-04-07, Number of Columns:, 249, Number of Beams:, 701 , FileLocation:, P:\W3292 National Cryptologic Museum\Submissions\2017-04-09 CD PROGRESS\W3292-S16-Central.rvt
+DateTime Modified:, 2017-09-20, DateTime Created:, 2017-06-02, Number of Columns:, 257, Number of Beams:, 784 , FileLocation:, P:\W3292 National Cryptologic Museum\Submissions\2017-06-02 50% CDs\W3292-S16-Central.rvt

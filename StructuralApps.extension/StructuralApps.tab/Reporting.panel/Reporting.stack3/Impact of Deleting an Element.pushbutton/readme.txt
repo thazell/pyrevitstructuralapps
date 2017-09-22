@@ -1,0 +1,1 @@
+Icon provided by https://pixabay.com/en/explosive-explosion-bomb-sign-98646/ no attribution required for commercial use.
